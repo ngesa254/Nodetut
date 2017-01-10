@@ -1,0 +1,11 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "Explaining Javascript modules and Anonymous Functions. Structuring our node App such thatv we dont put all our logic in one single file. It is much more easy to work this way",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngMarvin",
+  "license": "MIT"
+}
