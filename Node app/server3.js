@@ -5,7 +5,7 @@
  	// body...
 
  	res.writeHead(200, {'Content-Type': 'text/plain'});
- 	res.write('Meet the most awesome GDE around!');
+ 	res.write('Meet the most awesome webpage is here!');
  	res.end();
  }).listen(9000, function() {
  	// body...
