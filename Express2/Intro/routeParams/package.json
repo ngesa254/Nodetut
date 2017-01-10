@@ -1,0 +1,11 @@
+{
+  "name": "routeparams",
+  "version": "1.0.0",
+  "description": "responding to dynamic express dynamic requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngMarvin",
+  "license": "MIT"
+}
