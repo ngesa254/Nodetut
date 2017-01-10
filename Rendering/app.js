@@ -1,3 +1,12 @@
+/*
+  Rendering
+ 
+  This example code is in the public domain.
+  modified 10 Jan 2017
+  by Ngesa N Marvin
+  
+*/
+
 var http = require ('http');
 var fs = require('fs');
 
