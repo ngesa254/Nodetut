@@ -1,0 +1,11 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "Node itself has a lot of code and will be more complicated. We will express framework that builds aupone node and offers tool that make writing node app easy and fun.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngMarvin",
+  "license": "MIT"
+}
