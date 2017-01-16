@@ -1,7 +1,4 @@
 
-
-
-
 var five = require('johnny-five');
 var BeagleBone = require('beaglebone-io');
 
