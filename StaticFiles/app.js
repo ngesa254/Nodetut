@@ -5,7 +5,7 @@ var app = express();
 
 app.get("/", function (req, res) {
 
-res.send("Yowza! I am an expret in this now!");
+res.send("Yowza! It works!");
 
 });
 
